@@ -353,6 +353,7 @@ section{
 }
 
 .project-card{
+    margin: 10px;
     background:var(--card);
     padding:30px;
     border-radius:18px;
@@ -387,6 +388,10 @@ section{
 .certificates ul{
     max-width:700px;
     margin:auto;
+}
+
+.certificates a{
+    color:#60a5fa;
 }
 
 .certificates li{
