@@ -1,3 +1,4 @@
+
 /* ==========================
    Mobile Menu
 ========================== */
@@ -42,7 +43,7 @@ themeBtn.onclick = () => {
 ========================== */
 
 const text =
-"Aspiring Frontend Developer | HTML | CSS | JavaScript | Responsive Web Design";
+"Aspiring Frontend Developer | Data Analyst";
 
 const typing = document.getElementById("typing");
 
